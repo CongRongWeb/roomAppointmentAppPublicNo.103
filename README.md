@@ -1,19 +1,11 @@
-## 本项目完整源码是收费的  接毕业设计和论文
+<p><h1 align="center">基于Java+Springboot+Vue的自习室座位预约小程序管理系统</h1></p>
 
-### 作者QQ：3642795578 微信：grapro666 (支持修改、 部署调试、 支持代做毕设)
-
-### 接网站建设、小程序、H5、APP、各种系统等
-
-**博客地址：
-[https://blog.csdn.net/2303_76227485/article/details/137398745](https://blog.csdn.net/2303_76227485/article/details/137398745)**
-
-**视频演示：
-[https://www.bilibili.com/video/BV1up421y7F2/](https://www.bilibili.com/video/BV1up421y7F2/)**
-
-**毕业设计所有选题地址：
-[https://github.com/giteecode/allProject](https://github.com/giteecode/allProject)**
-
-## 基于Java+Springboot+Vue的自习室座位预约小程序管理系统(源代码+数据库)132
+- <b>完整代码获取地址：从戎源码网 ([https://armycodes.com/](https://armycodes.com/))</b>
+- <b>技术探讨、资料分享，请加QQ群：692619798</b> 
+- <b>作者微信：19941326836  QQ：952045282</b> 
+- <b>承接计算机毕业设计、Java毕业设计、Python毕业设计、深度学习、机器学习</b>
+- <b>选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt 一条龙服务</b>
+- <b>所有选题地址 ([https://github.com/YuLin-Coder/AllProjectCatalog](https://github.com/YuLin-Coder/AllProjectCatalog)) </b>
 
 ## 一、系统介绍
 
